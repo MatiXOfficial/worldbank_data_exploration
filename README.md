@@ -1,4 +1,7 @@
 # World Bank Data Exploration
+
+## [Project report](report.pdf)
+
 ## Setup
 This project requires both [python] and [R] setup to run. 
 We recommend using [pyenv](https://github.com/pyenv/pyenv) or similar tool for python version management.
